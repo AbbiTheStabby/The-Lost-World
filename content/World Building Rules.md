@@ -1,0 +1,23 @@
+Species Locations
+- Elves
+	- Wood Elves: Temperate forests, taigas, sometimes rainforests
+	- High Elves: rarely seen outside of temperate cities
+	- Sea Elves: Coasts are as far inland as they go
+	- Snow Elves: Himalayas, Nordics, Siberia, snow-capped mountains
+	- Desert Elves: Deserts, predominantly the Sahara
+	- Volcanic Elves (Rare): near volcanoes, rarely seen outside of Iceland and Hawaii
+- Orc
+	- Plains Orcs: Grasslands and Temperate Forests
+	- Grey Orcs: Siberia and Northern Canada, they live in frost-covered by flat areas
+- Goliath
+	- Frost: Same Areas as Grey Orcs
+	- Fire: Same Areas as Cinder/volcanic Elves
+	- Storms: Same Areas as Sea Elves
+	- Cloud/Hill/Stone: Same Areas as Plains Orcs
+- Halfling: Temperate Forests
+- Human: Clustered together at places of opportunity, such as for trade or craft. Most likely the dominant species wherever they are
+- Gnome
+	- Forest Gnome: Tropical Rain Forest
+	- Rock Gnome: Often exist alongside Mountain Dwarves
+- Tieflings: Rarely found and often Persecuted, with little dominant colonies. those that exist are often travellers
+- Dragonborn: Either Live with Dragons or on small island settlements, their homes are difficult to access without flight

@@ -1,0 +1,1 @@
+The mystical staff of [[Kasva]], used to grow the [[Seeds of Life & Death]]. It looks like a long brass rod tipped with a sheath of wheat

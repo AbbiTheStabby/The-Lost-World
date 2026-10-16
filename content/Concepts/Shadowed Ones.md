@@ -1,0 +1,1 @@
+Shadowed ones are powerful magical entities who were cast into the [[Shadowfell]] and were reduced to little of their former self, minute spirits who can at best possess intimate objects and sometimes become a warlock's patron ([[Hexblade]])

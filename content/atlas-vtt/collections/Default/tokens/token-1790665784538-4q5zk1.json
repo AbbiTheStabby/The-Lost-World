@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "name": "Wizard",
+    "imagePath": "atlas-vtt/assets/Wizard_1790665784513_tlxhdc.webp",
+    "collection": "Default",
+    "tags": [
+      "Class"
+    ],
+    "showRing": true,
+    "type": "token",
+    "id": "token-1790665784538-4q5zk1",
+    "createdAt": 1790665784538,
+    "modifiedAt": 1790665784538,
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Wizard_1790665784513_tlxhdc-2f305d02.webp"
+  }
+}

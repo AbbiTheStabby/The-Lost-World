@@ -1,0 +1,21 @@
+{
+  "id": "map-1791761996760-z74kc8",
+  "name": "UHD World Map",
+  "mapFilePath": "atlas-vtt/assets/UHD_World_Map_1791761996499_nn6rxw.png",
+  "tags": [],
+  "collection": "Default",
+  "createdAt": 1791761996760,
+  "modifiedAt": 1791761996760,
+  "atlasRecord": {
+    "format": 1,
+    "type": "map",
+    "name": "UHD World Map",
+    "mapFilePath": "atlas-vtt/assets/UHD_World_Map_1791761996499_nn6rxw.png",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/UHD_World_Map_1791761996499_nn6rxw-9e0c4bf9.webp",
+    "id": "map-1791761996760-z74kc8",
+    "createdAt": 1791761996760,
+    "modifiedAt": 1791761996760
+  }
+}

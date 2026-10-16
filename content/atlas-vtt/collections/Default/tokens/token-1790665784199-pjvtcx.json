@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "name": "Cleric",
+    "imagePath": "atlas-vtt/assets/Cleric_1790665784171_bkgxj8.webp",
+    "collection": "Default",
+    "tags": [
+      "Class"
+    ],
+    "showRing": true,
+    "type": "token",
+    "id": "token-1790665784199-pjvtcx",
+    "createdAt": 1790665784199,
+    "modifiedAt": 1790665784199,
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Cleric_1790665784171_bkgxj8-dd352660.webp"
+  }
+}

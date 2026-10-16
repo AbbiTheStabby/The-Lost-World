@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "pack": {
+    "id": "trp-edqfdd",
+    "name": "40ft Speed",
+    "enabled": true,
+    "customUnits": [],
+    "terrains": [],
+    "travelTimePresets": [
+      {
+        "id": "tt-i4nfcb",
+        "name": "Fast",
+        "distanceValue": 8.5,
+        "distanceUnit": "km",
+        "timeValue": 1,
+        "timeUnit": "h"
+      },
+      {
+        "id": "tt-11634o",
+        "name": "Normal",
+        "distanceValue": 6.4,
+        "distanceUnit": "km",
+        "timeValue": 4,
+        "timeUnit": "h"
+      },
+      {
+        "id": "tt-v8tlur",
+        "name": "Slow",
+        "distanceValue": 4.3,
+        "distanceUnit": "km",
+        "timeValue": 4,
+        "timeUnit": "h"
+      }
+    ],
+    "travelPerDayPresets": [
+      {
+        "id": "tpd-h1l6kn",
+        "name": "Recommended",
+        "value": 8,
+        "unit": "h"
+      }
+    ],
+    "travelPerDay": {
+      "value": 8,
+      "unit": "h"
+    }
+  },
+  "exportedAt": "2026-10-14T05:34:24.060Z"
+}

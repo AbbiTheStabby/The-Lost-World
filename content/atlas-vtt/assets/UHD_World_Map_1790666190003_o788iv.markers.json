@@ -1,0 +1,41 @@
+{
+  "size": {
+    "w": 1080,
+    "h": 568
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    {
+      "path": "atlas-vtt/assets/UHD_World_Map_1790666190003_o788iv.webp"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "atlas-vtt/assets/UHD_World_Map_1790666190003_o788iv.webp",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {
+      "atlas-vtt/assets/UHD_World_Map_1790666190003_o788iv.webp": 9259.25925925926
+    },
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": true,
+    "metersPerPixel": 9259.25925925926
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}

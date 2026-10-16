@@ -1,0 +1,63 @@
+{
+  "size": {
+    "w": 1280,
+    "h": 880
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_kwvfbm",
+      "x": 0.14464644457628031,
+      "y": 0.5730132018649596,
+      "layer": "default",
+      "link": "Mirador D'estelas Trading Post#Mirador D'estelas Supplies Store",
+      "iconKey": "pinRed",
+      "tooltip": "Supplies Store",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_7eh84o",
+      "x": 0.4417241756360906,
+      "y": 0.5965529389684828,
+      "layer": "default",
+      "link": "Mirador D'estelas Trading Post#Mirador D'estelas Bazaar",
+      "iconKey": "pinRed",
+      "tooltip": "Bazaar",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    }
+  ],
+  "bases": [
+    {
+      "path": "Images/Settlement Maps/Mirador D'estelas Trading Post.png"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "Images/Settlement Maps/Mirador D'estelas Trading Post.png",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}

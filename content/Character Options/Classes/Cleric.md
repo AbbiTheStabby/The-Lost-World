@@ -1,0 +1,16 @@
+ Domains:
+[[Arcana Domain]]
+[[Grave Domain]]
+[[Knowledge Domain]]
+[[Life Domain]]
+[[Light Domain]]
+[[Trickery Domain]]
+[[War Domain]]
+less important domains (non-2024):
+[[Death Domain]]
+[[Forge Domain]]
+[[Nature Domain]]
+[[Order Domain]]
+[[Peace Domain]]
+[[Tempest Domain]]
+[[Twilight Domain]]

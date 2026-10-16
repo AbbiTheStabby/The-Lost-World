@@ -1,0 +1,66 @@
+$\star$ : Recommended for new players, with minimal resource management and things to keep track of
+$\star \star$ : More difficult, new players should be alright with playing these characters as long as they can have help setting up their character sheet. Often has spellcasting
+$\star \star \star$ : Not recommended for new players due to many resources and options to keep track of. Difficult to create & play
+
+- Artificer: $\star \star \star$
+- Barbarian: $\star$
+	- Berserker: $\star$
+	- Wild Heart: $\star \star$
+	- World Tree: $\star \star \star$
+	- Zealot: $\star$
+- Bard: $\star \star$
+	- Dance: $\star \star \star$
+	- Glamour: $\star \star \star$
+	- Lore: $\star$
+	- Valor: $\star \star$
+- Cleric: $\star \star$
+	- Life: $\star$
+	- Light: $\star \star$
+	- Trickery: $\star \star$
+	- War: $\star$
+- Druid: $\star \star$
+	- Land: $\star \star \star$
+	- Moon: $\star \star$
+	- Sea: $\star$
+	- Stars: $\star \star$
+- Fighter: $\star$
+	- Battle Master: $\star \star \star$
+	- Champion: $\star$
+	- Eldritch Knight: $\star \star$
+	- Psi Warrior: $\star \star \star$
+- Monk: $\star \star$
+	- Mercy: $\star$
+	- Shadow: $\star \star$
+	- Elements: $\star \star$
+	- Open Hand: $\star$
+- Paladin: $\star \star$
+	- Devotion: $\star$
+	- Glory: $\star \star$
+	- Ancients: $\star$
+	- Vengeance: $\star \star$
+- Ranger: $\star \star$
+	- Fey Wanderer: $\star \star$
+	- Beast Master: $\star \star \star$
+	- Gloom stalker: $\star \star \star$
+	- Hunter: $\star$
+- Rogue: $\star$
+	- Cardmaster: $\star \star \star$
+	- Arcane trickster: $\star \star$
+	- Assassin: $\star$
+	- Soulknife: $\star \star \star$
+	- Thief: $\star$
+- Sorcerer: $\star \star \star$
+	- Abberant: $\star$
+	- Clockwork: $\star \star \star$
+	- Draconic: $\star \star$
+	- Wild Magic: $\star \star \star$ (*Because of the Chaos it Causes*)
+- Warlock: $\star \star$
+	- Archfey: $\star \star$
+	- Celestial: $\star \star \star$
+	- Fiend: $\star$
+	- Great Old One: $\star$
+- Wizard: $\star \star$
+	- Abjurer: $\star \star$
+	- Diviner: $\star$
+	- Evoker: $\star$
+	- Illusionist: $\star \star$
