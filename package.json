@@ -13,11 +13,8 @@
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "build": "npx quartz build -d \"Vault of the Lost World\"",
-    "serve": "npx quartz build --serve -d \"Vault of the Lost World\"",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
-    "sync": "npx quartz synx -d \"Vault of the Lost World\"",
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
