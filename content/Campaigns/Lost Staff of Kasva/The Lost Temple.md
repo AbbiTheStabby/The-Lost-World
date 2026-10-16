@@ -1,6 +1,5 @@
 ---
-up:
-  - "[[Preface]]"
+publish: "false"
 ---
 ![[The Forgotten Temple of Kasva.png]]
 
