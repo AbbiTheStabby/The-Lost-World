@@ -47,7 +47,7 @@
       "x": 0.4519997401238851,
       "y": 0.502578189165195,
       "layer": "default",
-      "link": "",
+      "link": "Coastal City",
       "iconKey": "pinRed",
       "tooltip": "A Coastal City",
       "scaleLikeSticker": true
@@ -59,6 +59,127 @@
       "y": 0.49551536195143975,
       "layer": "default",
       "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_tkj3j1",
+      "x": 0.502921789975684,
+      "y": 0.49756853204337265,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_raj8qz",
+      "x": 0.5198638463535883,
+      "y": 0.5035930889019089,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_95bwnl",
+      "x": 0.5382813864402918,
+      "y": 0.503593088901909,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_si2iaj",
+      "x": 0.5542528469842297,
+      "y": 0.5063244296750177,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_xl34mw",
+      "x": 0.571742850832062,
+      "y": 0.5064848924183961,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_pt4guc",
+      "x": 0.5884322134178863,
+      "y": 0.5094344754297218,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_99zufh",
+      "x": 0.6025840695735732,
+      "y": 0.5112067408039813,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_ojg9mw",
+      "x": 0.5152587418967507,
+      "y": 0.4756635291018854,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_p2vsfx",
+      "x": 0.5259660953776258,
+      "y": 0.44889365818464644,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_k6ddvg",
+      "x": 0.530753936365009,
+      "y": 0.4350129843757077,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_qmv0p1",
+      "x": 0.5812522577336906,
+      "y": 0.4818334711300225,
+      "layer": "default",
+      "link": "Temple of Seeds",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
@@ -323,7 +444,9 @@
         "fillPatternAngle": 45,
         "fillPatternSpacing": 8,
         "fillPatternStrokeWidth": 1,
-        "fillPatternOpacity": 0.15
+        "fillPatternOpacity": 0.15,
+        "regionLink": "Yimeal Desert",
+        "regionTooltip": "The Yimeal Desert: A Large bleak expanse of sand and rock, often crossed by powerful deadstorms"
       },
       "bakedPath": "ZoomMap/draw-overlays/map-mv4hezi2-draw_tgeip9.svg",
       "bakedWidth": 1558.7419602390491,

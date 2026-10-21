@@ -2,23 +2,28 @@
 tags:
   - Species
   - PlayersHandbook
+aliases:
+  - Elf
 ---
 # Subspecies
-## Wood Elf
+## #PlayersHandbook 
+### Wood Elf
 ^Wood
-#PlayersHandbook 
-## High Elf
+
+### High Elf
 ^High
-#PlayersHandbook 
-## Sea Elf
+
+### Dark Elf
+^Dark
+
+## #AdventurersGuideToTheLostWorld  
+### Sea Elf 
 ^Sea
-#AdventurersGuideToTheLostWorld 
 ## Snow Elf
 ^Snow
-#AdventurersGuideToTheLostWorld 
+
 ## Desert Elf
 ^Desert
-#AdventurersGuideToTheLostWorld 
+
 ## Cinder Elf
 ^Cinder
-#AdventurersGuideToTheLostWorld 

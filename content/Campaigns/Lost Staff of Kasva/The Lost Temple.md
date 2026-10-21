@@ -1,6 +1,8 @@
 ---
-publish: "false"
+publish:
 ---
+## The Temple of Kasva
+
 ![[The Forgotten Temple of Kasva.png]]
 
 ###### Section 1: The Entrance Cave
@@ -55,3 +57,13 @@ The vault has been undisturbed for much longer than the rest of the temple, and 
 - `dice: 8d8` worth of gold coins
 There is also a stand holding up the lost [[Staff of Kasva]], with plants growing from the cracks in the floor trying to reach the staff
 
+## Returning to the Bazaar
+The only place the players can travel to from here is the [[Mirador D'estelas Trading Post]], as any other post would take a tenday's worth of rations and equipment they do not have. Once there the players can attempt to trade with the few other merchants in the bazaar, however all the merchants currently there are generalist merchants, carting goods across the Yimeal.
+
+After the player pay for lodging and sleep in their hammock / don't and sleep on the floor, they wake up and hear a bell ringing, often used to signal someone with an important trade to make. The man ringing the bell slides of his horse and introduces himself as [[Mikhael Grumnush]], Guildmaster of the [[Yimeal Merchant's Guild]]. He mentions that he is in the market for any magical items unearthed in the area as they have recently spiked in demand at [[Coastal City]] (A DC 13 History check will have players remember that people did not care much for magical artefacts and small nicknaks when they left the city). He offers 1000 GP for any "Centrepiece items" (Such as large vases, sculptures, or staves). When he is done describing what he wants his small gnome assistant whispers in his ear and Mikhael turns towards the party, ignoring the other merchants (now 5 in number) with their small wares and asks
+
+> So, do you folk have anything I may be interested in? I have plenty of... Compensation
+
+His assistant has sensed something with the players and he suspects it to be what he is looking for, and a DC 15 insight check will reveal that he knows they have something, and a DC 20 implies that it is all he wants.
+
+Mikhael will insist the players have something, and even if they keep refusing he will finally give in, handing the players a business card for one the [[Coastal City Merchant's Guildhall]] and asking them to pop in if they find or have anything of value,. He has a brief look through what other merchants have, but before leaving he announces that he will be trekking to the [[Temple of Seeds]] and would reach there in about 6 tendays, and would stay there for about two before heading down to [[Other Coastal City]]

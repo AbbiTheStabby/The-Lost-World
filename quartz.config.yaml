@@ -7,12 +7,13 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: Codering-Monkey.github.io/The-Lost-World
+  baseUrl: AbbiTheStabby.github.io/The-Lost-World
   ignorePatterns:
     - private
     - templates
     - .obsidian
     - Campaigns
+    - atlas-vtt
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
